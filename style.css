@@ -12,7 +12,7 @@ h4{
 	color:purple;
 }
 ul {
-	width:10%;
+	width:40%;
 	display:block;
 	margin:auto;
 	color:purple;
@@ -22,7 +22,7 @@ h1 {
 	color:purple;
 }
 h1:hover {
- color:gray;
+ color:black;
 }
 
  h2 {
@@ -30,7 +30,7 @@ h1:hover {
  }
  
 h2:hover{
-color:gray;	
+color:navy;	
 
 }
 p {
